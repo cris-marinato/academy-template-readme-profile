@@ -1,5 +1,5 @@
 
-# Oi, me chamo [Cristina] 👋
+# Oi, me chamo [Cristina] 
 
 ### Sobre mim
 
