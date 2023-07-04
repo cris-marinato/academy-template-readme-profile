@@ -1,14 +1,14 @@
 
-# Oi, me chamo [Cristina] 👋
+# Oi, me chamo Cristina 👋
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedora [Back-End]
+💻 Eu sou uma desenvolvedora Back-End
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [ | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Python](https://on.fiap.com.br/local/nanocourses/) ] | [ Bacharelado em Ciências Economicas ]
+🎓 Eu estudo | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Python](https://on.fiap.com.br/local/nanocourses/) | Bacharelado em Ciências Economicas
 
 👩‍💻 Atualmente estou em transição de carreira para a área de tecnologia
 
